@@ -2,7 +2,6 @@
 
 每个人拥有一个自己的AI Financial Twin，它可以模拟未来几年的人生财富变化。
 
-![FinTwin](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=FinTwin%20AI%20Financial%20Twin%20dashboard%20with%20dark%20theme%2C%20glass%20morphism%2C%20charts%20and%20financial%20visualizations&image_size=landscape_16_9)
 
 ## 🌟 核心功能
 
