@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29538982/README.md)
 # FinTwin - AI数字金融分身
 
 每个人拥有一个自己的AI Financial Twin，它可以模拟未来几年的人生财富变化。
